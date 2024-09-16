@@ -14,3 +14,10 @@ Student Profile Management: Implement the functionality for viewing and editing 
 
 Upload Notes: Develop the functionality for uploading various types of notes.
 Share Notes Among Classmates: Implement the feature that allows students to share notes with their peers.
+
+
+#Group Member-3 Priyank Vora(1217802)
+#Priyank Vora: Notifications and Classmate Interaction
+
+Send Notifications: Implement the feature to send notifications related to assignments and other important information to classmates.
+Manage Classmate Group: Implement the functionality to manage virtual groups of classmates within the app.
