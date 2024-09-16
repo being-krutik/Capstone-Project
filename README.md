@@ -21,3 +21,7 @@ Share Notes Among Classmates: Implement the feature that allows students to shar
 
 Send Notifications: Implement the feature to send notifications related to assignments and other important information to classmates.
 Manage Classmate Group: Implement the functionality to manage virtual groups of classmates within the app.
+
+# Group Member-4 Joseph Piquero(0963845)
+#User Interface: Work on enhancing the user interface to be more interactive and student-friendly.
+#Integrate Firebase Services: Ensure integration of Firebase services like Authentication, Realtime Database, Storage, Cloud Messaging, and Analytics.
