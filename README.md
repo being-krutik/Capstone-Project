@@ -1,7 +1,7 @@
 # Capstone-Project
 #Group ID:S1G7
 # Group Member-1 Krutik Bhatt(1216312)
-Project Name- Stumate
+Project Name- PeerNotez
 Feature Distribution
 #Krutik Bhatt: User Authentication and Profile Management
 
